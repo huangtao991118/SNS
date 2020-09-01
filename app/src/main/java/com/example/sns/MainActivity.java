@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Test commit CZJ 2020.9.1.17.25
+        //I also want to have a test, please!!!! WRY 2020.9.1.23:35
     }
 }
